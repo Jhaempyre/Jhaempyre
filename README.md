@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jhaempyre
 - 👀 I’m interested in research and development and offcourse making money out of them.
-- 🌱 I’m currently learning AI & ML from northern engineering coollege and BS in data science & programming from IIT Madras
-- 💞️ I’m looking to collaborate on web and android development 
+- 🌱 I’m currently learning BS in data science & programming from IIT Madras and pursuing my b.tech in (IT) from ADGITM
+- 💞️ I’m looking to collaborate on SDE and anytypr of development
 - 📫 How to reach me by mail at jhaashish.ajha@gmail.com
 
 <!---
